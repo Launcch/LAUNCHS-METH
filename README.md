@@ -1,3 +1,5 @@
+YOUTUBE PREVIEW - https://www.youtube.com/watch?v=P7xbRfcsm4g
+
 LAUNCHS-METH – Drug Crafting System for QBCore
 
 --LAUNCHS-METH is a fully custom, three-stage gathering and crafting system designed for QBCore servers.
