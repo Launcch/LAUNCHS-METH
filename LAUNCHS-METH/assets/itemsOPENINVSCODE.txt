@@ -1,0 +1,61 @@
+-- OX ONLY
+
+
+--LAUNCHS-METH
+
+	["hydrochloric_acid"] = {
+		label = "Hydrochloric Acid",
+		weight = 75,
+		stack = true,
+		close = false,
+		description = "Could be used for something",
+		client = {
+			image = "hydroc.png",
+		}
+	},
+
+	["sodiumbenz"] = {
+		label = "Sodium Benzoate",
+		weight = 75,
+		stack = true,
+		close = false,
+		description = "Could be used for something",
+		client = {
+			image = "sodiumb.png",
+		}
+	},
+
+	["meth_bag"] = {
+        label = "Bag of Meth",
+        weight = 300,
+        stack = true,
+        close = true,           
+        description = "Bag of Crystal Meth",        
+        client = {
+            image = "methbag.png",
+        }
+    },
+    
+    ["meth_base"] = {
+		label = "Meth Base",
+		weight = 100,
+		stack = true,
+		close = false,
+		description = "Ready to package Meth",
+		client = {
+			image = "methbase.png",
+		}
+	},
+
+    --THIS IS IF YOU WANT TO USE THIS ITEM FOR CRAFTING YOU CAN CHANGE THE CONFIG TO TAKE YOUR BAGGY ITEM
+
+    ["ls_empty_baggy"] = {
+		label = "Empty Baggy",
+		weight = 5,
+		stack = true,
+		close = true,
+		description = "Used for bagging Goods.",
+		client = {
+			image = "ls_empty_baggy.png",
+		}
+	},
